@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\ui\\dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:ui\\dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\ui\\dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:ui\\dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\bll\\payrollservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:bll\\payrollservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\utils\\validator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:utils\\validator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\ui\\reportsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:ui\\reportsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\ui\\reportsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:ui\\reportsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\dal\\userdal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:dal\\userdal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\models\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:models\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\ui\\employeeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:ui\\employeeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|e:\\vb_netproject\\employee payroll management system\\ui\\payrollform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BC1F3B01-A844-4CB2-91BF-4359DE222C89}|Employee Payroll Management System.vbproj|solutionrelative:ui\\payrollform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\MainForm.vb",
+              "RelativeToolTip": "MainForm.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAAewD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T10:18:36.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\MainForm.vb [Design]",
+              "RelativeToolTip": "MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T10:01:00.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardForm.vb",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\DashboardForm.vb",
+              "RelativeDocumentMoniker": "UI\\DashboardForm.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\DashboardForm.vb",
+              "RelativeToolTip": "UI\\DashboardForm.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:58:41.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayrollService.vb",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\BLL\\PayrollService.vb",
+              "RelativeDocumentMoniker": "BLL\\PayrollService.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\BLL\\PayrollService.vb",
+              "RelativeToolTip": "BLL\\PayrollService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:58:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validator.vb",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\Utils\\Validator.vb",
+              "RelativeDocumentMoniker": "Utils\\Validator.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\Utils\\Validator.vb",
+              "RelativeToolTip": "Utils\\Validator.vb",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:57:52.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportsForm.vb",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\ReportsForm.vb",
+              "RelativeDocumentMoniker": "UI\\ReportsForm.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\ReportsForm.vb",
+              "RelativeToolTip": "UI\\ReportsForm.vb",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:56:18.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDAL.vb",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\DAL\\UserDAL.vb",
+              "RelativeDocumentMoniker": "DAL\\UserDAL.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\DAL\\UserDAL.vb",
+              "RelativeToolTip": "DAL\\UserDAL.vb",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:47:10.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportsForm.vb [Design]",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\ReportsForm.vb",
+              "RelativeDocumentMoniker": "UI\\ReportsForm.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\ReportsForm.vb [Design]",
+              "RelativeToolTip": "UI\\ReportsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:47:28.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardForm.vb [Design]",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\DashboardForm.vb",
+              "RelativeDocumentMoniker": "UI\\DashboardForm.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\DashboardForm.vb [Design]",
+              "RelativeToolTip": "UI\\DashboardForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:47:33.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.vb",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\Models\\User.vb",
+              "RelativeDocumentMoniker": "Models\\User.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\Models\\User.vb",
+              "RelativeToolTip": "Models\\User.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:47:19.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeForm.vb [Design]",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\EmployeeForm.vb",
+              "RelativeDocumentMoniker": "UI\\EmployeeForm.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\EmployeeForm.vb [Design]",
+              "RelativeToolTip": "UI\\EmployeeForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:47:31.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PayrollForm.vb [Design]",
+              "DocumentMoniker": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\PayrollForm.vb",
+              "RelativeDocumentMoniker": "UI\\PayrollForm.vb",
+              "ToolTip": "E:\\VB_NETPROJECT\\Employee Payroll Management System\\UI\\PayrollForm.vb [Design]",
+              "RelativeToolTip": "UI\\PayrollForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T09:47:24.486Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

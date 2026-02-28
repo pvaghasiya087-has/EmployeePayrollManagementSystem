@@ -1,0 +1,11 @@
+# Visual Studio files
+*.user
+*.suo
+*.vscode/
+
+# Build folders
+bin/
+obj/
+
+# Database logs
+*.ldf
