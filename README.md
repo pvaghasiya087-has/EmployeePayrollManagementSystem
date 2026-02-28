@@ -27,4 +27,4 @@ A **complete payroll management system** built with **VB.NET and SQL Server**, d
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/EmployeePayrollManagementSystem.git
+git clone https://github.com/pvaghasiya087-has/EmployeePayrollManagementSystem.git
